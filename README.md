@@ -7,7 +7,7 @@ J'ai decidé de créer une classe pour chaque element du sujet soit :
   * Firmware
   * Patient
 
-Afin de garde en mémoires les objets j'ai definit une liste de patients et une liste de devices.
+Afin de garde en mémoire les objets j'ai definit une liste de patients et une liste de devices.
 
 Ensuite pour rendre plus facile l'utilisation du code j'ai crée un menu qui permet différentes fonctionnalités soit :
   * 1 - Declarer (permet de créer un objet device)
