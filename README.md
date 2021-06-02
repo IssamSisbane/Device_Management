@@ -1,11 +1,12 @@
 # Device_Management
 
-##Comment Fonctionne le code ?
+## Comment Fonctionne le code ?
 
 J'ai decidé de créer une classe pour chaque element du sujet soit :
   * Device
   * Firmware
   * Patient
+
 Ensuite pour rendre plus facile l'utilisation du code j'ai crée un menu qui permet différente fonctionnalités soit :
   * 1 - Declarer (permet de créer un objet device)
   * 2 - Associer (permet d'associer un objet device avec un objet patient -> il faut créer un objet patient avant)
