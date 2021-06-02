@@ -24,6 +24,11 @@ ainsi quand on le met à jour tous les devices sont mis à jours en même temps.
 
 On a différentes verifications pour certaines opérations afin respecter les contraintes du sujet.
 
+Contraintes :
+ * On ne peut pas créer deux objets avec le même nom
+ * On ne peut pas associer un élément déjà impliqué dans une autre association
+ * On ne peut pas dissocier un élément qui n'a pas d'association
+
 Si une opération s'est bien passé on affiche alors 'OK' sinon on affiche 'KO'.
 
 Le code est assez simpliste et pas très optimisé notamment à cause des nombreux if.
